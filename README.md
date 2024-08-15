@@ -2,7 +2,7 @@
 
 Esse repositório é uma atividade realizada para Etec Antonio Furlan com as seguintes linguagens: HTML, CSS e JS.
 
-<img src="https://github.com/Gustaxsx/pokeminion/blob/main/pokeminion/images/favicon.png?raw=true"width=50% height=50%>
+<img src="https://github.com/Gustaxsx/pokeminion/blob/main/pokeminion/images/pokedex.png?raw=true">
 
 [teste aqui !!](https://pokeminion.vercell.app)
 
