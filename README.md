@@ -4,7 +4,7 @@ Esse repositório é uma atividade realizada para Etec Antonio Furlan com as seg
 
 <img src="https://github.com/Gustaxsx/pokeminion/blob/main/pokeminion/images/pokedex.png?raw=true">
 
-[teste aqui !!](https://pokeminion.vercell.app)
+[teste aqui !!](https://poke-da-dex.vercel.app)
 
 #Funcionalidades 
 
